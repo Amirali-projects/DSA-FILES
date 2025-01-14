@@ -1,3 +1,5 @@
+// This includes the sum of all  numbers till n value.
+
 #include<iostream>
 using namespace std;
 	int sum(int n){
